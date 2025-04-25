@@ -22,7 +22,7 @@
   🚀 _Manage your transactions in an efficient way._
   
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vgarg1603&layout=donut&theme=radical)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vgarg1603&layout=donut&theme=radical)
 ---
 
 ### 📫 Let's Connect
